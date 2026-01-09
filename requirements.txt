@@ -2,3 +2,14 @@ pandas
 numpy
 seaborn
 matplotlib
+# Machine Learning
+scikit-learn
+xgboost
+# Deep Learning
+tensorflow
+# NLP
+nltk
+gensim
+# Explainable AI
+shap
+lime
